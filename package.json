@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/vjlais/telegram_bot#readme",
   "dependencies": {
-    "node-telegram-bot-api": "^0.28.0"
+    "metascraper": "^1.0.7",
+    "node-telegram-bot-api": "^0.28.0",
+    "request": "^2.82.0"
   }
 }
