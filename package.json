@@ -1,0 +1,22 @@
+{
+  "name": "telegram_bot",
+  "version": "0.0.1",
+  "description": "bot for parsing data from telegram",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vjlais/telegram_bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vjlais/telegram_bot/issues"
+  },
+  "homepage": "https://github.com/vjlais/telegram_bot#readme",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.28.0"
+  }
+}
