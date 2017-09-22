@@ -1,4 +1,4 @@
-const init = require('./lib/init');
+const { init } = require('./lib/init');
 init();
 
 // module.exports = init;
