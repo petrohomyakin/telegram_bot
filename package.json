@@ -24,5 +24,8 @@
     "metascraper": "^1.0.7",
     "node-telegram-bot-api": "^0.28.0",
     "request": "^2.82.0"
+  },
+  "engines": {
+    "node": "8.1.x"
   }
 }
