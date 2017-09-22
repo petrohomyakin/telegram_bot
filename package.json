@@ -26,6 +26,7 @@
     "request": "^2.82.0"
   },
   "engines": {
-    "node": "8.1.x"
+    "node": "latest",
+    "npm": "latest"
   }
 }
