@@ -1,2 +1,4 @@
 const init = require('./lib/init');
-init();
+// init();
+
+module.exports = init;
