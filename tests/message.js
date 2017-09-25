@@ -24,8 +24,8 @@ const test_msg2 = {
     text: 'https://vk.com/wall-140927803_207458'
 };
 
-createMessage(test_msg1)
-    .then( res => console.log(res) );
+// createMessage(test_msg1)
+    // .then( res => console.log(res) );
 
 createMessage(test_msg2)
     .then( res => console.log(res) );
