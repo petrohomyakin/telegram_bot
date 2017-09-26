@@ -9,7 +9,9 @@
   "scripts": {
     "test": "node ./tests/test.js",
     "test_msg": "node ./tests/message.js",
-    "test_log": "node ./tests/log.js"
+    "test_log": "node ./tests/log.js",
+    "test_bot": "node ./tests/bot.js",
+    "test_find_prop": "node ./tests/findProp.js"
   },
   "repository": {
     "type": "git",
