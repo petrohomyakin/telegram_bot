@@ -4,7 +4,12 @@ const test_obj = {
     a: {
         b: 'c',
         d: {
-            kek: 'lul'
+            kek: {
+                kek_lol: {
+                    some_prop: 'prop'
+                },
+                lol_kek: 'lul'
+            }
         }
     }
 }
@@ -14,4 +19,7 @@ console.log(findProp(test_obj, 'b'))
 console.log(findProp(test_obj, 'c'))
 console.log(findProp(test_obj, 'd'))
 console.log(findProp(test_obj, 'kek'))
+console.log(findProp(test_obj, 'kek_lol'))
+console.log(findProp(test_obj, 'azaza'))
+console.log(findProp(test_obj, 'lol_kek'))
 console.log(findProp(test_obj, 'lul'))
