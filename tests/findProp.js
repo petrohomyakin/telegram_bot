@@ -32,7 +32,11 @@ const msg = {
         type: 'channel'
     },
     date: 1506448612,
-    forward_from_chat: { id: -1001149375282, title: 'My books', type: 'channel' },
+    forward_from_chat: {
+        id: -1001149375282,
+        title: 'My books',
+        type: 'channel'
+    },
     forward_from_message_id: 7,
     forward_date: 1505826991,
     document: {

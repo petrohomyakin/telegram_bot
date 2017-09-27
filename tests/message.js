@@ -1,4 +1,4 @@
-const createMessage = require('../lib/message');
+const { createMessage } = require('../lib/message');
 
 const test_msg1 = {
     chat: {
